@@ -19,11 +19,6 @@ I'm a data analyst based in Chicago, IL, with a background in Econometrics and Q
 
 *Excel toolkit: Lookups (XLOOKUP/INDEX-MATCH), PivotTables, Power Query, VBA*
 
-### Featured project
-**[Fast Food Nutrition Analysis](https://github.com/your-username/fastfood-nutrition-analysis)** — a SQL-based deep dive into nutrition data across 8 major fast food chains, covering calorie, sodium, and protein-efficiency trends with a full write-up and visualizations.
-
-*(Swap in your actual GitHub username in the link above once this repo is live.)*
-
 ### A bit more about me
 Outside of data, you'll usually find me at a chessboard, behind a camera, on a basketball court, or picking up the guitar. I'm big into watches and movies too — always happy to talk shop on any of the above.
 
