@@ -17,7 +17,7 @@ I'm a data analyst based in Chicago, IL, with a background in Econometrics and Q
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-*Excel toolkit: Lookups (VLOOKUP/INDEX-MATCH), PivotTables, Power Query, VBA*
+*Excel toolkit: Lookups (XLOOKUP/INDEX-MATCH), PivotTables, Power Query, VBA*
 
 ### Featured project
 **[Fast Food Nutrition Analysis](https://github.com/your-username/fastfood-nutrition-analysis)** — a SQL-based deep dive into nutrition data across 8 major fast food chains, covering calorie, sodium, and protein-efficiency trends with a full write-up and visualizations.
